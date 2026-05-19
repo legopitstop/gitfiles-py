@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/pypi/dm/gitfiles)
 ![Status](https://img.shields.io/pypi/status/gitfiles)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Issues](https://img.shields.io/github/issues/legopitstop/gitfiles)](https://github.com/legopitstop/gitfiles/issues)
+[![Issues](https://img.shields.io/github/issues/legopitstop/gitfiles-py)](https://github.com/legopitstop/gitfiles-py/issues)
 
 Load, filter and match `.gitignore` files.
 
